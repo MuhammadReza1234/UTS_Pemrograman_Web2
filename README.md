@@ -1,6 +1,6 @@
 <h1><p align="center"> Project UAS Pemrograman Web</h1><br> 
 
-**KELOMPOK RRCH**
+**KELOMPOK KitaMart**
 
 | No.| Nama Kelompok | NIM | Kelas |
 |----|------------|--------|-------|
